@@ -354,9 +354,6 @@ game.catchPokemon = function(pokemonObj) {
     }        
 )}
 
-// game.party.forEach(function(printName){
-   //  console.log(printName.name)
-// })
 
 game.catchPokemon(pokemon[40])
 
